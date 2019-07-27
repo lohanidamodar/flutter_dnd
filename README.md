@@ -4,6 +4,9 @@ A simple drag and drop matching game in flutter to learn how to use `Draggable` 
 
 ## [Youtube Tutorial](https://youtu.be/qMdmDgegKkY)
 
+[<img src="screenshot/1.png" height="480px" >](https://www.youtube.com/watch?v=qMdmDgegKkY)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
