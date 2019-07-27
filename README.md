@@ -1,6 +1,8 @@
-# flutter_dnd
+# Flutter Drag & Drop
 
-A new Flutter project.
+A simple drag and drop matching game in flutter to learn how to use `Draggable` and `DragTarget` widgets.
+
+## [Youtube Tutorial](https://youtu.be/qMdmDgegKkY)
 
 ## Getting Started
 
